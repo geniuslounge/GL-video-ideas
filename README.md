@@ -1,4 +1,4 @@
-<img src="https://s.gravatar.com/avatar/b9d6859916139942340c91db0a503bfc?s=500" alt="drawing" width="150"/>
+<br><img src="https://s.gravatar.com/avatar/b9d6859916139942340c91db0a503bfc?s=500" alt="drawing" width="150"/>
 
 # Genius Lounge Video Suggestions & Ideas
 
