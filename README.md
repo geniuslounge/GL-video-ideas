@@ -4,4 +4,4 @@
 
 This is a place where we take suggestions compile them and sort them into viable videos for the [Genius Lounge YouTube Channel](https://youtube.com/geniuslounge)
 
-Feel free to suggest videos using [This Form](https://forms.gle/X7Pbg1AtpagTmUv86)
+Feel free to suggest videos using [This Form](https://github.com/geniuslounge/video-ideas/issues/new?assignees=&labels=&template=video-suggestion.md&title=%3C+replace+with+video+title+%3E)
