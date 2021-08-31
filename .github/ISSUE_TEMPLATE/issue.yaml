@@ -1,9 +1,9 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: [bug, triage]
+name: Video Idea
+description: Suggest an Episode for Genius Lounge
+title: "[Video Idea]: "
+labels: [video idea]
 assignees:
-  - octocat
+  - trtmn
 body:
   - type: markdown
     attributes:
@@ -13,14 +13,14 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      description: "What's your github username in case we need to get ahold of you?"
+      placeholder: ex. @octocat
     validations:
       required: false
   - type: textarea
-    id: what-happened
+    id: idea-details
     attributes:
-      label: What happened?
+      label: "What's your episode idea?"
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
