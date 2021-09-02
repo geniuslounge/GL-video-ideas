@@ -7,10 +7,7 @@ This is a place where we take suggestions compile them and sort them into viable
 Feel free to suggest videos using this form:
 <br><br>
 <a href="https://forms.gle/RNzbTW7NWWders6aA">
-<img src="https://img.shields.io/badge/-Suggest%20a%20Video-green" width="200px"/>
+<img src="https://img.shields.io/badge/-Suggest%20a%20Video-brightgreen.svg" width="200px"/>
 </a>
-     
-
-
 
         
